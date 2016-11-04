@@ -1,4 +1,6 @@
-# desafio
+# Izi
+
+Problemas solucionados para aprender sintaxe de python
 
 Nas soluções dos problemas é usado Python 3.5.2
 
